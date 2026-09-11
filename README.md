@@ -269,3 +269,6 @@ This repository serves as the official landing page for WinSMS. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WinSMS today!**
+
+---
+**Last updated:** 2026-09-11 05:39:13 UTC
